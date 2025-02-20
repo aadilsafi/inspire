@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Fhsinchy\\Inspire\\Src\\Providers\\InspirationServiceProvider"
+                "Fhsinchy\\Inspire\\Providers\\InspirationServiceProvider"
             ]
         }
     }
