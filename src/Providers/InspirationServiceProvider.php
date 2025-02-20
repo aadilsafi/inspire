@@ -1,5 +1,5 @@
 <?php
-namespace Fhsinchy\Inspire\Providers;
+namespace Aadil\Inspire\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

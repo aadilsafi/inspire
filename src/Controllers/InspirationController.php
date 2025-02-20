@@ -1,8 +1,8 @@
 <?php
-namespace Fhsinchy\Inspire\Controllers;
+namespace Aadil\Inspire\Controllers;
 
 use Illuminate\Http\Request;
-use Fhsinchy\Inspire\Inspire;
+use Aadil\Inspire\Inspire;
 
 class InspirationController
 {

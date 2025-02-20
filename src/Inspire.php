@@ -1,6 +1,6 @@
 <?php
 
-namespace Fhsinchy\Inspire;
+namespace Aadil\Inspire;
 
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Http;
